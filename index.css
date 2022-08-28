@@ -1,0 +1,31 @@
+.nav_container{
+    background-color:burlywood;
+    display: flex;
+    justify-content: space-around;
+}
+ul{
+list-style-type: none;
+display:flex;
+}
+.nav_min_container{
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.logo_image{
+    height:50px;
+    width:50px;
+    margin:15px;
+}
+.list_item{
+    margin-right: 20px;
+}
+.image_container{
+    background-image: url("background3.jpg");
+    height:700px;
+    background-size: cover;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+  
